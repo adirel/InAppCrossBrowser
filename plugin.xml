@@ -24,8 +24,8 @@
     <description>Cordova android webView and Crosswalk combination</description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,inappbrowser, crosswalk</keywords>
-    <repo>https://github.com/DT-Workshop/InAppCrossBrowser.git</repo>
-    <issue>https://github.com/DT-Workshop/InAppCrossBrowser/issues</issue>
+    <repo>https://github.com/adirel/InAppCrossBrowser.git</repo>
+    <issue>https://github.com/adirel/InAppCrossBrowser/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=3.1.0"/>
