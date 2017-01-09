@@ -1,4 +1,6 @@
 This is to support the crosswalk browser engine in android. If no crosswalk engine, it fails back to the original webView browser. For iOS you still need use the plugin:cordova-plugin-inappbrowser   
+#What changed from fork
+disabled the uppertoolbar
 
 # What is the enhancement (android only)
 1. support the crosswalk engine
