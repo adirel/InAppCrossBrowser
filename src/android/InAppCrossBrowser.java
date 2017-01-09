@@ -401,9 +401,9 @@ public class InAppCrossBrowser extends WebViewBrowser {
         //        actionButtonContainer.addView(back);
         toolbar.addView(actionButtonContainer);
         toolbar.addView(close);
-
+        //a.e - removing tool bar
         // Add our toolbar to our main view/layout
-        main.addView(toolbar);
+        //main.addView(toolbar);
 
         // Add main webview to our main view/layout
         attachWebView(main);
